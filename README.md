@@ -3,6 +3,9 @@
 This is my personal portfolio website to showcase my skills, projects, and experience.  
 Built using **HTML**, **CSS**, and **JavaScript**.
 
+## 🔗 Live Demo  
+👉 <a href="https://ombankarofficial.github.io/Portfolio/" target="_blank">Visit My Portfolio</a>  
+
 ## 📌 Features
 
 - Responsive design (works on mobile, tablet, and desktop)
